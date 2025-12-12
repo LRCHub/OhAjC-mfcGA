@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春とショコラ",
+  "base_artist": "Lyrical Lily",
+  "createdAt": "2025-12-12T21:40:05.386590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春とショコラ",
+      "artist": "Lyrical Lily",
+      "has_synced": true,
+      "path": "select/01_春とショコラ_Lyrical_Lily.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春とショコラ",
+      "artist": "Lyrical Lily",
+      "has_synced": false,
+      "path": "select/pl_01_春とショコラ_Lyrical_Lily.txt"
+    }
+  ]
+}
